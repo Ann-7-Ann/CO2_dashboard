@@ -1,4 +1,4 @@
-CO2 emission visualisation dashboard
+#CO2 emission visualisation dashboard
 
 Interactive visualisation of world CO2 emission dataset: https://raw.githubusercontent.com/owid/co2-data/master/owid-co2-data.csv
 with the use of Shiny library.
